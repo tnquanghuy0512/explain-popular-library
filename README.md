@@ -31,7 +31,7 @@ I will sort list based on the utility
 ## 3.1 ERC20
 ## 3.2 ERC721
 ## 3.3 ERC1155
-## 3.4 ERC777
+## 3.4 ERC4626
 
 # 4. Utility
 ## 4.1 Cryptography
@@ -53,7 +53,7 @@ I will sort list based on the utility
 ## 4.3.4 OZ's Multicall
 ## 4.3.5 OZ's Pausable
 ## 4.3.6 OZ's ReentrancyGuard
-
+## 4.3.7 Uniswap's Permit2
 
 
 
