@@ -32,7 +32,7 @@ I will sort list based on the utility
 ## 3.2 ERC721
 ## 3.3 ERC1155
 ## 3.4 ERC4626
-## 3.5 ERC721Enum
+## 3.5 ERC721Enumerable
 
 
 # 4. Utility
