@@ -19,21 +19,20 @@ I will sort list based on the utility
 ## 2.2 OZ's BeaconProxy
 ## 2.3 OZ's TransparentProxy
 ## 2.4 OZ's UUPSProxy
-
 ## 2.5 OZ's CREATE2
 ## 2.6 Solady's CREATE3
 ## 2.7 OZ's Clones
 ## 2.8 Wighawag's Clones with immutable args
-
-## 2.9 where's the diamond went?
+## 2.9 we have no lib for diamond???
 
 # 3. Tokens
 ## 3.1 ERC20
 ## 3.2 ERC721
-## 3.3 ERC1155
-## 3.4 ERC4626
-## 3.5 ERC721Enumerable
-
+## 3.3 ERC721A
+## 3.4 ERC721Enumerable
+## 3.5 ERC1155
+## 3.6 ERC4626
+## 3.7 ERC2981
 
 # 4. Utility
 ## 4.1 Cryptography

@@ -18,7 +18,13 @@ Summary:
 In detail:
 
 How to use:
-## 3.3 ERC721Enumerable
+
+
+## 3.3 ERC721A
+
+
+
+## 3.4 ERC721Enumerable
 https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/extensions/ERC721Enumerable.sol
 
 
@@ -28,7 +34,7 @@ Summary:
 In detail:
 
 How to use:
-## 3.4 ERC1155
+## 3.5 ERC1155
 https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC1155/ERC1155.sol
 
 Summary:
@@ -37,7 +43,7 @@ In detail:
 
 How to use:
 
-## 3.5 ERC4626
+## 3.6 ERC4626
 https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/extensions/ERC4626.sol
 
 
@@ -47,3 +53,4 @@ In detail:
 
 How to use:
 
+## 3.7 ERC2981
